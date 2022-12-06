@@ -1,0 +1,9 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+  }
+  .h1{
+    align-self: center;
+  }
